@@ -1,0 +1,15 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "Bot Discord di Manuel Scattaretica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scatta07/BotDiscord.git"
+  },
+  "author": "Manuel Scattaretica",
+  "license": "ISC"
+}
